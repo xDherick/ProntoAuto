@@ -1,3 +1,5 @@
+https://pronto-auto.vercel.app/
+
 # ProntoAuto — Frontend
 
 Aplicação web **mobile-first** para oficinas mecânicas registrarem ordens de serviço (OS), diagnósticos, evidências fotográficas e orçamentos, e compartilharem tudo com o cliente por um **link público** onde ele aprova ou recusa o orçamento — sem cadastro e sem senha.
